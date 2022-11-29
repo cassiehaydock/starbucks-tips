@@ -1,4 +1,4 @@
-# Starbucks Tip Distribution Calculator
+# Tip Distribution Calculator
 ## Introduction
 This is a personal project written in C# to track and calculate the tip distribution specifically for a local Starbucks. This is not meant to be used in commercial settings, and may contain data security issues.
 ## Contents
