@@ -8,5 +8,5 @@ Defines the worker object with properties for their name, the amount of tips the
 Personally defined Doubly Linked List data structure to hold the worker objects. Methods are AddLast(), GetCount(), UpdateHoursAll(), UpdateHoursOne(), Delete(), DisplayAll().
 ### Program.cs 
 Holds main whose purpose is to prompt the user for an integer input that is attached to a specifc action through a case statment. The different cases will call the approite methods from DLL.cs to complete the action.
-#### Disclaimer 
-This is not meant to be used in commercial settings, and may contain data security issues.
+#### Notes 
+This was not meant to be used in commercial settings, and may contain data security issues.
