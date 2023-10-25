@@ -1,6 +1,6 @@
 # Tip Distribution Calculator
 ## Introduction
-This is a personal project that is not finished. This project is written in C# to track and calculate the tip distribution specifically for a friends workplace.
+This is a personal project that is not finished. This project is written in C# to track and calculate the tip distribution.
 ## Contents
 ### Workers.cs 
 Defines the worker object with properties for their name, the amount of tips they received, the hours they worked and if the tips have been distributed.
